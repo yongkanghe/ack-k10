@@ -4,6 +4,8 @@ chmod 755 ossutil64
 
 echo "export PATH=$PATH:~/ack-k10" >> ~/.bashrc
 echo "alias k=kubectl" >> ~/.bashrc
+echo "export KUBECONFIG=~/ack-k10/ack_kubeconfig" >> ~/.bashrc
+
 . ~/.bashrc
 
 clear
