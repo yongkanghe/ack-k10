@@ -15,15 +15,19 @@ This script based automation allows you to build a ready-to-use Kasten K10 demo 
 # Here're the prerequisities. 
 
 1. Go to Alibaba Cloud Shell
-2. Clone the github repo, run below command
+2. Verify if you can access the cluster via kubectl
+````
+kubectl get nodes
+````
+3. Clone the github repo, run below command
 ````
 git clone https://github.com/yongkanghe/ack-k10.git
 ````
-3. Install the tools and set Alibaba Cloud Access Credentials
+4. Install the tools and set Alibaba Cloud Access Credentials
 ````
 cd ack-k10;./aliprep.sh
 ````
-4. Optionally, you can customize the clustername, instance-type, zone, region, bucketname
+5. Optionally, you can customize the clustername, instance-type, zone, region, bucketname
 ````
 vi setenv.sh
 ````
