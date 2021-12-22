@@ -1,0 +1,11 @@
+ack_*
+*access
+k10-sa-key.json
+backupname
+exportname
+ack-deploy.sh
+deploy.sh
+destroy.sh
+id-*
+gcs-*
+
