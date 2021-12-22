@@ -15,6 +15,7 @@ echo $AccessKeyId > aliaccess
 echo -n "Enter your Alicloud Access Key Secret and press [ENTER]: "
 read AccessKeySecret
 echo $AccessKeySecret >> aliaccess
+chmod 600 aliaccess
 echo "" | awk '{print $1}'
 echo "You are ready to deploy now!"
 echo "" | awk '{print $1}'
