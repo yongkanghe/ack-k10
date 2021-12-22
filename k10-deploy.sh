@@ -4,7 +4,7 @@ starttime=$(date +%s)
 
 echo $MY_BUCKET > ack_bucketname
 
-export KUBECONFIG=./ack_kubeconfig
+export KUBECONFIG=~/ack-k10/ack_kubeconfig
 
 echo '-------Install K10'
 kubectl create ns kasten-io
