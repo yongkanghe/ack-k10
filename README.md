@@ -19,7 +19,7 @@ This script based automation allows you to build a ready-to-use Kasten K10 demo 
 ````
 git clone https://github.com/yongkanghe/ack-k10.git
 ````
-3. Set Alibaba Cloud Access Credentials
+3. Install the tools and set Alibaba Cloud Access Credentials
 ````
 cd ack-k10;./aliprep.sh
 ````
