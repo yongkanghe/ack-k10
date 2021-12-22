@@ -2,7 +2,7 @@ starttime=$(date +%s)
 . ./setenv.sh
 
 echo '-------Removing the restorepointcontent of Postgresql'
-kubectl get restorepointcontent -l k10.kasten.io/appNamespace=k10-postgresql | xargs kubectl delete restorepointcontent
+kubectl delete restorepointcontent -l k10.kasten.io/appNamespace=k10-postgresql 
 sleep 60
 
 echo '-------Removing Kasten K10 and Postgresql'
