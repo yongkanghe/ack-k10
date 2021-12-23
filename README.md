@@ -1,8 +1,6 @@
 I just want to build an ACK Cluster (Alibaba Cloud Container Service for Kubernetes) to play with the various Data Management capabilities e.g. Backup/Restore, Disaster Recovery and Application Mobility. 
 
-### [Follow me on Twitter](<a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>)
-
-### [Subscribe my Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
+### <a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>
 
 It is challenging to create an ACK cluster from Alibaba Cloud if you are not familiar to it. After the ACK Cluster is up running, we still need to install Kasten, create a sample DB, create policies etc.. The whole process is not that simple.
 
@@ -12,6 +10,8 @@ This script based automation allows you to build a ready-to-use Kasten K10 demo 
 
 # Option 1: Build an ACK cluster via Web UI
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JLdc4D9kAss/0.jpg)](https://www.youtube.com/watch?v=JLdc4D9kAss)
+
+### [Subscribe Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
 
 # Option 2: Build an ACK cluster via OpenAPI
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eXjTSDmgcUE/0.jpg)](https://www.youtube.com/watch?v=eXjTSDmgcUE)
