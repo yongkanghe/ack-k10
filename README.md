@@ -54,7 +54,7 @@ vi setenv.sh
 3. Remove all the relevant snapshots
 4. Remove the objects from the storage bucket
 
-# Cick my photo to watch the how-to video.
+# Cick my photo to watch how-to video.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/clGcZbdaQPE/0.jpg)](https://www.youtube.com/watch?v=clGcZbdaQPE)
 
 # For more details about ACK Backup and Restore
