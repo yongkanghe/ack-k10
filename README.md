@@ -76,6 +76,4 @@ http://k10.yongkang.cloud
 
 # Contributors
 
-### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn 
-
-### Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
+#### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn, Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
