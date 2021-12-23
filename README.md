@@ -52,8 +52,8 @@ vi setenv.sh
 ````
 ./destroy.sh
 ````
-1. Remove the relevant VPC, vSwitch
-2. Remove all the relevant disks
+1. Remove Postgresql database
+2. Remove Kasten K10
 3. Remove all the relevant snapshots
 4. Remove the objects from the storage bucket
 
