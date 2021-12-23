@@ -75,4 +75,8 @@ http://k10.yongkang.cloud
 
 # Contributors
 
-### [Yongkang He](http://yongkang.cloud)  <a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>  [Subscribe Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
+### [Yongkang He](http://yongkang.cloud)  
+
+### <a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>  
+
+### [Subscribe Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
