@@ -1,7 +1,4 @@
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/yongkanghe" aria-label="Follow @yongkanghe on GitHub">Follow @yongkanghe</a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+### <a class="github-button" href="https://github.com/yongkanghe" aria-label="Follow @yongkanghe on GitHub">Follow @yongkanghe</a> on Github
 
 I just want to build an ACK Cluster (Alibaba Cloud Container Service for Kubernetes) to play with the various Data Management capabilities e.g. Backup/Restore, Disaster Recovery and Application Mobility. 
 
