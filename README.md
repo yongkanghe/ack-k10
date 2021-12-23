@@ -81,6 +81,6 @@ http://k10.yongkang.cloud
 
 ### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter 
 
-### Subscribe [Kubernetes Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
+### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 ### Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
