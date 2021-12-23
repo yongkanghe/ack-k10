@@ -1,6 +1,6 @@
 I just want to build an ACK Cluster (Alibaba Cloud Container Service for Kubernetes) to play with the various Data Management capabilities e.g. Backup/Restore, Disaster Recovery and Application Mobility. 
 
-### [Follow me on Twitter] (<a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>)
+### [Follow me on Twitter](<a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>)
 
 ### [Subscribe my Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
 
