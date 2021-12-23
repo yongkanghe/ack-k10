@@ -12,10 +12,12 @@ This script based automation allows you to build a ready-to-use Kasten K10 demo 
 # Option 1: Build an ACK cluster via Web UI
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JLdc4D9kAss/0.jpg)](https://www.youtube.com/watch?v=JLdc4D9kAss)
 
-### [Subscribe Youtube Channel](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1)
+#### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 # Option 2: Build an ACK cluster via OpenAPI
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eXjTSDmgcUE/0.jpg)](https://www.youtube.com/watch?v=eXjTSDmgcUE)
+
+#### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 # Here're the prerequisities. 
 
@@ -57,6 +59,8 @@ vi setenv.sh
 
 # Cick my photo to watch how-to video.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/clGcZbdaQPE/0.jpg)](https://www.youtube.com/watch?v=clGcZbdaQPE)
+
+#### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 # For more details about ACK Backup and Restore
 ### Backup Containers on ACK  
