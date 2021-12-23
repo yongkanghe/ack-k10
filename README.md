@@ -77,7 +77,9 @@ http://k10.yongkang.cloud
 
 # Contributors
 
-### [Yongkang He](http://yongkang.cloud)  
+### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn 
+
+### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter 
 
 ### <a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a>  
 
