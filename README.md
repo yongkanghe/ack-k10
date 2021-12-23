@@ -1,8 +1,9 @@
-### <a class="github-button" href="https://github.com/yongkanghe" aria-label="Follow @yongkanghe on GitHub">Follow @yongkanghe</a> on Github
+
+### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter 
+
+### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 I just want to build an ACK Cluster (Alibaba Cloud Container Service for Kubernetes) to play with the various Data Management capabilities e.g. Backup/Restore, Disaster Recovery and Application Mobility. 
-
-### <a href="https://twitter.com/yongkanghe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @yongkanghe</a> on Twitter
 
 It is challenging to create an ACK cluster from Alibaba Cloud if you are not familiar to it. After the ACK Cluster is up running, we still need to install Kasten, create a sample DB, create policies etc.. The whole process is not that simple.
 
@@ -78,9 +79,5 @@ http://k10.yongkang.cloud
 # Contributors
 
 ### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn 
-
-### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter 
-
-### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 ### Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
