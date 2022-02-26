@@ -50,7 +50,7 @@ vi setenv.sh
 
 # To delete the labs, run 
 ````
-./destroy.sh
+./k10-destroy.sh
 ````
 1. Remove Postgresql database
 2. Remove Kasten K10
