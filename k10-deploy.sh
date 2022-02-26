@@ -62,7 +62,7 @@ echo '-------Waiting for K10 services are up running in about 1 or 2 mins'
 kubectl wait --for=condition=ready --timeout=300s -n kasten-io pod -l component=catalog
 
 #Create a Alibaba Cloud Object Storage Location Profile
-./location.sh
+./oss-location.sh
 
 #Create a backup policy for the sample database
 ./policy.sh
