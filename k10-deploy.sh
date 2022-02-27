@@ -12,6 +12,7 @@ kubectl create ns kasten-io
 kubectl annotate sc alicloud-disk-essd storageclass.kubernetes.io/is-default-class=true
 
 helm repo add kasten https://charts.kasten.io
+helm repo update
 
 helm install k10 kasten/k10 -n kasten-io \
   --set externalGateway.create=true \
@@ -39,7 +40,6 @@ EOF
 echo '-------Deploying a PostgreSQL database'
 kubectl create namespace yong-postgresql
 helm repo add bitnami https://charts.bitnami.com/bitnami
-helm repo update
 helm install --namespace yong-postgresql postgres bitnami/postgresql --set primary.persistence.size=20Gi
 
 echo '-------Output the Cluster ID'
