@@ -1,5 +1,5 @@
 ack_*
-*access
+*access*
 k10-sa-key.json
 backupname
 exportname
@@ -9,6 +9,8 @@ destroy.sh
 id-*
 gcs-*
 *openapi.template*
+k10status.old.sh
+
 
 
 
