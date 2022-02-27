@@ -1,15 +1,16 @@
 starttime=$(date +%s)
 . ./setenv.sh
+export KUBECONFIG=~/ack-k10/ack_kubeconfig
 
 echo '-------Removing the restorepointcontent of Postgresql'
-kubectl delete restorepointcontent -l k10.kasten.io/appNamespace=k10-postgresql 
+kubectl delete restorepointcontent -l k10.kasten.io/appNamespace=yong-postgresql 
 sleep 60
 
 echo '-------Removing Kasten K10 and Postgresql'
-helm uninstall postgres -n k10-postgresql
+helm uninstall postgres -n yong-postgresql
 helm uninstall k10 -n kasten-io
 kubectl delete ns kasten-io
-kubectl delete ns k10-postgresql
+kubectl delete ns yong-postgresql
 
 echo '-------Deleting objects from the bucket'
 ossutil64 -i $(cat aliaccess | head -1) -k $(cat aliaccess | tail -1) -e https://oss-$MY_REGION.aliyuncs.com rm oss://$(cat ack_bucketname)/ -r -f
