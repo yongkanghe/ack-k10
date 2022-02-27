@@ -65,7 +65,7 @@ kubectl wait --for=condition=ready --timeout=300s -n kasten-io pod -l component=
 ./oss-location.sh
 
 #Create a backup policy for the sample database
-./policy.sh
+./postgresql-policy.sh
 
 echo '-------Accessing K10 UI'
 cat ack_token
