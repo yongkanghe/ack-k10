@@ -40,7 +40,7 @@ echo '-------Deploying a PostgreSQL database'
 kubectl create namespace k10-postgresql
 helm repo add bitnami https://charts.bitnami.com/bitnami
 helm repo update
-helm install --namespace k10-postgresql postgres bitnami/postgresql --set persistence.size=20Gi
+helm install --namespace k10-postgresql postgres bitnami/postgresql --set primary.persistence.size=20Gi
 
 echo '-------Output the Cluster ID'
 clusterid=$(kubectl get namespace default -ojsonpath="{.metadata.uid}{'\n'}")
