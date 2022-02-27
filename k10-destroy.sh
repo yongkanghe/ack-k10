@@ -3,7 +3,7 @@ starttime=$(date +%s)
 export KUBECONFIG=~/ack-k10/ack_kubeconfig
 
 echo '-------Removing the restorepointcontent of Postgresql'
-kubectl get restorepointcontent -l k10.kasten.io/appNamespace=yong-postgresql | grep -v NAME | xargs kubectl delete restorepointcontent
+kubectl get restorepointcontent -l k10.kasten.io/appNamespace=yong-postgresql | grep -v NAME | awk '{print $1}' | xargs kubectl delete restorepointcontent
 
 sleep 60
 
