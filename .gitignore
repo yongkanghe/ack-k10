@@ -8,4 +8,6 @@ deploy.sh
 destroy.sh
 id-*
 gcs-*
+openapi.template
+
 
