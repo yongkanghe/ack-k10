@@ -19,7 +19,7 @@ echo k10migration4yong1 > k10_migration_bucketname
 export MY_OBJECT_STORAGE_PROFILE=myaws3-migration
 
 echo '-------Creating a S3 profile secret'
-kubectl create secret generic k10-s3-secret \
+kubectl create secret generic k10-aws3-secret \
       --namespace kasten-io \
       --type secrets.kanister.io/aws \
       --from-literal=aws_access_key_id=$AWS_ACCESS_KEY_ID \
@@ -40,7 +40,7 @@ spec:
       secret:
         apiVersion: v1
         kind: Secret
-        name: k10-s3-secret
+        name: k10-aws3-secret
         namespace: kasten-io
     type: ObjectStore
     objectStore:
