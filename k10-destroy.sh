@@ -1,11 +1,12 @@
 starttime=$(date +%s)
 . ./setenv.sh
-export KUBECONFIG=~/ack-k10/ack_kubeconfig
+# export KUBECONFIG=~/ack-k10/ack_kubeconfig
+export KUBECONFIG=./ack_kubeconfig
 
-echo '-------Removing the restorepointcontent of Postgresql'
-kubectl get restorepointcontent -l k10.kasten.io/appNamespace=yong-postgresql | grep -v NAME | awk '{print $1}' | xargs kubectl delete restorepointcontent
+# echo '-------Removing the restorepointcontent of Postgresql'
+# kubectl get restorepointcontent -l k10.kasten.io/appNamespace=yong-postgresql | grep -v NAME | awk '{print $1}' | xargs kubectl delete restorepointcontent
 
-sleep 60
+# sleep 60
 
 echo '-------Removing Kasten K10 and Postgresql'
 helm uninstall postgres -n yong-postgresql
