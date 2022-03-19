@@ -1,4 +1,4 @@
-echo '-------Creating an ACK Cluster'
+echo '-------Creating an ACK Cluster now'
 starttime=$(date +%s)
 . ./setenv.sh
 
