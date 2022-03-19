@@ -3,13 +3,11 @@ ack_*
 k10-sa-key.json
 backupname
 exportname
-ack-deploy.sh
-deploy.sh
-destroy.sh
 id-*
 gcs-*
-*openapi.template*
-k10status.old.sh
+*openapi.template.*
+ossutil64*
+
 
 
 
