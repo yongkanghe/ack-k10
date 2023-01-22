@@ -69,14 +69,14 @@ http://backupack.yongkang.cloud
 ### Automate Build and Protect ACK
 http://automateack.yongkang.cloud 
 
-# Kasten - No. 1 Kubernetes Backup
+# Kasten - No. 1 Self Managed Kubernetes Backup
 https://kasten.io 
+
+# CloudCasa - Best Kubernetes Backup as a Service
+https://cloudcasa.io 
 
 # FREE Kubernetes Learning
 https://learning.kasten.io 
-
-# Kasten - DevOps tool of the month July 2021
-http://k10.yongkang.cloud
 
 # Contributors
 
